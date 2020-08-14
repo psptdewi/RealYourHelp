@@ -1,0 +1,81 @@
+<resources>
+    <string name="app_name">yourHelp</string>
+
+
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Kata Sandi</string>
+    <string name="prompt_password_repeat">Kata Sandi (Diulang)</string>
+    <string name="prompt_name">Nama Lengkap</string>
+    <string name="prompt_phone">Nomor Telepon</string>
+    <string name="action_sign_in">Masuk atau Mendaftar</string>
+    <string name="action_sign_in_short">Masuk</string>
+    <string name="action_register">Buat akun baru?</string>
+    <string name="action_have_account">Sudah memiliki akun?</string>
+    <string name="action_submit">Daftar</string>
+    <string name="error_invalid_email">Alamat email tidak valid</string>
+    <string name="error_unavailable_email">Email sudah pernah terdaftar</string>
+    <string name="error_invalid_password">Kata Sandi tidak valid</string>
+    <string name="error_invalid_password_repeat">Ulangi password dengan benar</string>
+    <string name="error_incorrect_password">Kata Sandi yang Anda masukkan salah</string>
+    <string name="error_old_password">Kata Sandi lama salah</string>
+    <string name="error_field_required">Kolom ini tidak boleh dikosongi</string>
+    <string name="permission_rationale">"Izin kontak diperlukan untuk menyediakan penyelesaian email."</string>
+    <string name="login_header_information">Isilah form ini dengan akun login anda,
+        atau buat akun terlebih dahulu untuk dapat menggunakan aplikasi ini.</string>
+
+    <string name="txt_welcome">Selamat\n Datang</string>
+
+    <string name="btn_logout">Logout</string>
+    <string name="nama_pasien">Nama</string>
+    <string name="tanggal">Tanggal</string>
+    <string name="jeniskelamin">Jenis Kelamin</string>
+    <string name="perempuan">Perempuan</string>
+    <string name="lakilaki">Pria</string>
+    <string name="G2">Bercerai</string>
+    <string name="G8">Orang Tua Meninggal</string>
+    <string name="G44">Sangat Pemalu</string>
+    <string name="G23">Suka Berselisih Dengan Teman</string>
+    <string name="G37">Mudah Frustasi</string>
+    <string name="G16">Kesulitan Keuangan</string>
+    <string name="G45">Sangat Tertutup</string>
+    <string name="G51">Marah Jika Dikritik</string>
+    <string name="G46">Merasa Kesepian</string>
+    <string name="G25">Banyak Hutang</string>
+    <string name="G53">Tidak Punya Rasa Empati</string>
+    <string name="G47">Merasa Tidak Berguna</string>
+    <string name="G27">Tidak Konsentrasi</string>
+    <string name="G49">Tidak Mudah Curhat</string>
+    <string name="kasus">Kasus yang terjadi pada anak anda :</string>
+    <string name="prosessolusi">Proses Solusi</string>
+    <string name="tambah">Silahkan tulis jika terdapat tambahan gejala</string>
+    <string name="titleMenu">Konsultasikan permasalahan anak anda disini</string>
+    <string name="edit">Edit</string>
+    <string name="konsultasi">Konsultasi</string>
+    <string name="riwayat">Riwayat Konsultasi</string>
+    <string name="menu">Menu</string>
+    <string name="ge1">Bercerai</string>
+    <string name="ge2">Orang tua terlalu posesif</string>
+    <string name="ge3">Suka berselisih dengan orang tua</string>
+    <string name="ge4">Tidak mendengarkan nasihat orang tua</string>
+    <string name="ge5">Orang tua tidak mendukung cita-citanya</string>
+    <string name="ge6">Suka kabur dari rumah ketika keinginannya tidak dituruti</string>
+    <string name="ge7">Suka berselisih dengan teman</string>
+    <string name="ge8">Mudah frustasi</string>
+    <string name="ge9">Sering berduaan dengan kekasihnya</string>
+    <string name="ge10">Suka menyendiri</string>
+    <string name="ge11">Sangat pemalu</string>
+    <string name="ge12">Sangat tertutup</string>
+    <string name="ge13">Merasa kesepian</string>
+    <string name="ge14">Merasa tidak berguna</string>
+    <string name="ge15">Merasa bersalah</string>
+    <string name="ge16">Tidak mudah curhat</string>
+    <string name="ge17">Marah jika dikritik</string>
+    <string name="ge18">Tidak bersemangat dalam menjalani hidup</string>
+    <string name="ge19">Tidak punya rasa empati</string>
+    <string name="ge20">Malas beribadah</string>
+    <string name="ge21">Merokok berlebihan</string>
+    <string name="ge22">Kecanduan narkoba</string>
+    <string name="ge23">Kecanduan game online</string>
+    <string name="hasil">Hasil</string>
+
+</resources>
